@@ -1,6 +1,6 @@
 {
-  "short_name": "Portfoli: Ridwanullahi",
-  "name": "Portfoli: Ridwanullahi Yahyah",
+  "short_name": "Precious",
+  "name": "Precious Eseola",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "Ridwanullahi's.png",
+      "src": "LOGO 001.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "Ridwanullahi's.png",
+      "src": "LOGO 001.png",
       "type": "image/png",
       "sizes": "512x512"
     }
